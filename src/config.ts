@@ -27,7 +27,7 @@ export const config = {
     style: ButtonStyle.Secondary,
 
     // Primary embed color (HEX integer)
-    color: 0x2f3136,
+    color: 1A1110,
 
     // Optional bullet marker before each button in the panel description (e.g. '🔹' or undefined)
     dot: undefined as string | undefined,
@@ -50,13 +50,13 @@ export const config = {
             emoji: '👁️'
         },
         user: {
-            emoji: '💋'
+            emoji: '👤'
         },
         speak: {
             emoji: '🔈'
         },
         kick: {
-            emoji: '🤢'
+            emoji: '🦶'
         },
         reset: {
             emoji: '✂️'
